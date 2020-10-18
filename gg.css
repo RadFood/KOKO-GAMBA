@@ -14,3 +14,7 @@ body{
 	border-radius: 100px;
 	box-shadow:  0 0 0 3px purple, 0 0 13px #333;
 }
+.footer{
+	background-color:green;
+	height: 120px
+}
