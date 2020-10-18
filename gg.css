@@ -4,4 +4,13 @@ body{
 
 .myt{
 	color: white;
+	margin-right: 2px;
+}
+.round{
+	border-radius: 100px;
+	box-shadow:  0 0 0 3px grey, 0 0 13px #333;
+}
+.round1{
+	border-radius: 100px;
+	box-shadow:  0 0 0 3px purple, 0 0 13px #333;
 }
